@@ -7,7 +7,7 @@ To analyse given data using coeffificient of correlation and regression line
 
 # Software required :  
 
-Python
+Python Compiler
 
 # Theory:
 
@@ -21,9 +21,16 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
+
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output
 
-# Output 
+<img width="846" height="714" alt="Screenshot 2026-03-09 211402" src="https://github.com/user-attachments/assets/2cd6b46c-9450-4b2c-ad23-5ef751ffe19c" />
+
+# Result
+   Thus to analyse given data using coeffificient of correlation and regression line is successful 
+    
+   
+https://github.com/naresh6557/Correlation_Regression
